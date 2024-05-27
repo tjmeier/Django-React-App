@@ -1,4 +1,4 @@
 # V0.0
 
-# Building the foundation
+## Building the foundation
 * JWT authentication
