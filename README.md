@@ -20,6 +20,7 @@ See `FEATURES.md`
 
 # Configuration
 ##Creating React Frontend
+* Install Node.js
 * `$ npm create vite@latest frontend -- --template react`
 
 ##Python Environment
