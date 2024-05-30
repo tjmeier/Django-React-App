@@ -19,14 +19,14 @@
 
 
 # Configuration
-##Creating React Frontend
+## Creating React Frontend
 * Install Node.js
 * `$ npm create vite@latest frontend -- --template react`
 
-##Python Environment
+## Python Environment
 * `$ python -m venv env`
 * `$ env/Scripts/activate.bat`
 * `$ pip install -r requirements.txt`
 
-##Creating Django Backend
+## Creating Django Backend
 * `$ django-admin startproject backend`
