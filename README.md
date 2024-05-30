@@ -22,6 +22,8 @@
 ## Creating React Frontend
 * Install Node.js
 * `$ npm create vite@latest frontend -- --template react`
+* `$ cd frontend`
+* `$ npm install axios react-router-dom jwt-decode`
 
 ## Python Environment
 * `$ python -m venv env`
