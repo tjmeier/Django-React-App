@@ -16,3 +16,16 @@
 
 # Features
 See `FEATURES.md`
+
+
+# Configuration
+##Creating React Frontend
+* `$ npm create vite@latest frontend -- --template react`
+
+##Python Environment
+* `$ python -m venv env`
+* `$ env/Scripts/activate.bat`
+* `$ pip install -r requirements.txt`
+
+##Creating Django Backend
+* `$ django-admin startproject backend`
