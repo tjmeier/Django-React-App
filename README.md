@@ -15,7 +15,7 @@
 * `$ pip freeze > requirements.txt`
 
 # Features
-See `FEATURES.md`
+* See `FEATURES.md`
 
 
 # Configuration
