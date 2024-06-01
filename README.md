@@ -1,12 +1,16 @@
 # Starting the App
 ## Setting up the Repo
 * Clone Repo
-* `$ cd`
+* `$ cd backend`
 
 ## Deployment
 * Pull Changes
+* Go to Backend Directory
 * `$ python manage.py makemigrations`
 * `$ python manage.py migrate`
+* `$ python manage.py runserver`
+* Go to Frontend Directory
+* `$ npm run dev`
 
 # Manual Backup
 `$ python manage.py dumpdata -a -o data.json`
