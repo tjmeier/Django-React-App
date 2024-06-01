@@ -6,6 +6,7 @@
 ## Deployment
 * Pull Changes
 * `$ python manage.py makemigrations`
+* `$ python manage.py migrate`
 
 # Manual Backup
 `$ python manage.py dumpdata -a -o data.json`
